@@ -23,12 +23,10 @@ class Solution {
         if(node==null){
             return 0;
         }
-        int leftHeight=height(node.left);
-        int rightHeight=height(node.right);
-
-        int dia=leftHeight + rightHeight + 1;
-        diameter=Math.max(diameter,dia);
-
-        return Math.max(leftHeight,rightHeight)+1;
+        int leftheight=height(node.left);
+        int rightheight=height(node.right);
+        int dia=leftheight+rightheight+1;
+        diameter=Math.max(dia,diameter);
+        return Math.max(leftheight,rightheight)+1;
     }
 }
