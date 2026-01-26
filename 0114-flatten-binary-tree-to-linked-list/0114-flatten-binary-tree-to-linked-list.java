@@ -27,7 +27,8 @@ class Solution {
                 current.left=null;
             }
             current=current.right;
+
         }
-        
     }
+
 }
