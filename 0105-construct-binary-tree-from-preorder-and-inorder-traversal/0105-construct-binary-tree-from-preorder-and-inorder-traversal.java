@@ -15,23 +15,20 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        int l=preorder.length;
-        if(l==0){
+        if(preorder.length == 0){
             return null;
         }
         int r=preorder[0];
-        int index=0;
-        
-        for(int i=0;i<l;i++){
+        int idx=0;
+        for(int i=0;i<inorder.length;i++){
             if(inorder[i]==r){
-                index=i;
+                idx=i;
             }
         }
-        TreeNode node = new TreeNode(r);
-        node.left=buildTree(Arrays.copyOfRange(preorder,1,index+1),(Arrays.copyOfRange(inorder,0,index)));
-        node.right=buildTree(Arrays.copyOfRange(preorder,index+1,l),(Arrays.copyOfRange(inorder,index+1,l)));
+        TreeNode node=new TreeNode(r);
+        node.left=buildTree(Arrays.copyOfRange(preorder,1,idx+1),Arrays.copyOfRange(inorder,0,idx));
+        node.right=buildTree(Arrays.copyOfRange(preorder,idx+1,preorder.length),Arrays.copyOfRange(inorder,idx+1,inorder.length));
         return node;
     }
-        
     
 }
