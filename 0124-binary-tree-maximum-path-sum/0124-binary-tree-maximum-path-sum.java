@@ -19,17 +19,16 @@ class Solution {
         helper(root);
         return ans;
     }
-    int helper(TreeNode root){
-        if(root==null){
+    int helper(TreeNode node){
+        if(node==null){
             return 0;
         }
-        int left=helper(root.left);
-        int right=helper(root.right);
-
+        int left=helper(node.left);
+        int right=helper(node.right);
         left=Math.max(0,left);
         right=Math.max(0,right);
-        int pathsum=left+right+root.val;
-        ans=Math.max(pathsum,ans);
-        return Math.max(left,right)+root.val;
+        int sum=left+right+node.val;
+        ans=Math.max(ans,sum);
+        return Math.max(left,right)+node.val;
     }
 }
