@@ -15,49 +15,41 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
-
-        if (root == null) {
-            return result;
+        List<List<Integer>> ans=new ArrayList<>();
+        if(root==null){
+            return ans;
         }
-
-        Deque<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        boolean reverse = false;
-
-        while (!queue.isEmpty()) {
-            int levelSize = queue.size();
-            List<Integer> currentLevel = new ArrayList<>(levelSize);
-            for (int i=0; i < levelSize; i++) {
+        Deque<TreeNode> queue=new LinkedList<>();
+        queue.offerFirst(root);
+        Boolean reverse=false;
+        while(!queue.isEmpty()){
+            List<Integer> currlev=new ArrayList<>();
+            int size=queue.size();
+            for(int i=0;i<size;i++){
                 if(!reverse){
-                    TreeNode currentNode = queue.pollFirst();
-                    currentLevel.add(currentNode.val);
-                    if (currentNode.left != null) {
-                        queue.offerLast(currentNode.left);
+                    TreeNode curr=queue.pollFirst();
+                    currlev.add(curr.val);
+                    if(curr.left!=null){
+                        queue.offerLast(curr.left);
                     }
-                    if (currentNode.right != null) {
-                        queue.offerLast(currentNode.right);
+                    if(curr.right!=null){
+                        queue.offerLast(curr.right);
                     }
                 }
-                else{
-                    TreeNode currentNode = queue.pollLast();
-                    currentLevel.add(currentNode.val);
-                    if (currentNode.right != null) {
-                        queue.offerFirst(currentNode.right);
+                if(reverse){
+                    TreeNode curr=queue.pollLast();
+                    currlev.add(curr.val);
+                    if(curr.right!=null){
+                        queue.offerFirst(curr.right);
                     }
-                    if (currentNode.left != null) {
-                        queue.offerFirst(currentNode.left);
+                    if(curr.left!=null){
+                        queue.offerFirst(curr.left);
                     }
-                    
                 }
-
             }
+            ans.add(currlev);
             reverse=!reverse;
-            result.add(currentLevel);
         }
-        
-        return result;
+        return ans;
     }
-    
-    
 }
