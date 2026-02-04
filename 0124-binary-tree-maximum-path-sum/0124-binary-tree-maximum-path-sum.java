@@ -23,8 +23,10 @@ class Solution {
         if(node==null){
             return 0;
         }
-        int left=Math.max(0,helper(node.left));
-        int right=Math.max(0,helper(node.right));
+        int left=helper(node.left);
+        int right=helper(node.right);
+        left=Math.max(0,left);
+        right=Math.max(0,right);
         int sum=left+right+node.val;
         ans=Math.max(ans,sum);
         return Math.max(left,right)+node.val;
