@@ -15,20 +15,27 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        if(preorder.length == 0){
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<inorder.length;i++){
+            map.put(inorder[i],i);
+        }
+        int[] index={0};
+        return helper(preorder,inorder,0,inorder.length-1,map,index);
+    }
+    TreeNode helper(int[] preorder, int[] inorder,int left,int right,HashMap<Integer,Integer> map,int[] index){
+        if(left>right){
             return null;
         }
-        int r=preorder[0];
-        int idx=0;
-        for(int i=0;i<inorder.length;i++){
-            if(inorder[i]==r){
-                idx=i;
-            }
+        int curr=preorder[index[0]];
+        index[0]++;
+        TreeNode node=new TreeNode(curr);
+        if(left==right){
+            return node;
         }
-        TreeNode node=new TreeNode(r);
-        node.left=buildTree(Arrays.copyOfRange(preorder,1,idx+1),Arrays.copyOfRange(inorder,0,idx));
-        node.right=buildTree(Arrays.copyOfRange(preorder,idx+1,preorder.length),Arrays.copyOfRange(inorder,idx+1,inorder.length));
+        int currindex=map.get(curr);
+        node.left=helper(preorder,inorder,left,currindex-1,map,index);
+        node.right=helper(preorder,inorder,currindex+1,right,map,index);
         return node;
     }
-    
 }
+    
