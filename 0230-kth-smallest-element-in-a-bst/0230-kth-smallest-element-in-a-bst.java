@@ -22,7 +22,7 @@ class Solution {
         if(root==null){
             return null;
         }
-        TreeNode left=helper( root.left, k);
+        TreeNode left=helper(root.left,k);
         if(left!=null){
             return left;
         }
