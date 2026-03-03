@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aryanrajput25/DSA/tree/master/0027-remove-element) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Aryanrajput25/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Aryanrajput25/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Aryanrajput25/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -151,16 +155,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Aryanrajput25/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryanrajput25/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
