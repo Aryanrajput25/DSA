@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aryanrajput25/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Aryanrajput25/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aryanrajput25/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
