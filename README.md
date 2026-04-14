@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Aryanrajput25/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanrajput25/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0682-baseball-game](https://github.com/Aryanrajput25/DSA/tree/master/0682-baseball-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
@@ -189,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,8 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aryanrajput25/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
