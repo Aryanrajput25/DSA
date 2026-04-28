@@ -12,8 +12,8 @@ class Solution {
                 int count=1;
                 int x=i;
                 while(set.contains(x+1)){
-                    x++;
-                    count++;
+                    x=x+1;
+                    count=count+1;
                 }
                 longest=Math.max(longest,count);
             }
