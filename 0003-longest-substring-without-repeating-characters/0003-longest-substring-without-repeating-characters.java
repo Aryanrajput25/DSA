@@ -1,31 +1,20 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int[] charFrequency = new int[128];
-      
-        // Initialize variables
-        int maxLength = 0;
-        int stringLength = s.length();
-        int left = 0;
-      
-        // Iterate through string with right pointer
-        for (int right = 0; right < stringLength; right++) {
-            // Get current character at right pointer
-            char currentChar = s.charAt(right);
-          
-            // Increment frequency of current character
-            charFrequency[currentChar]++;
-          
-            // Shrink window from left while we have duplicate characters
-            while (charFrequency[currentChar] > 1) {
-                // Decrement frequency of character at left pointer and move left pointer
-                charFrequency[s.charAt(left)]--;
-                left++;
+        int n=s.length();
+        int[] hash=new int[256];
+        Arrays.fill(hash,-1);
+        int l=0;
+        int r=0;
+        int maxlen=0;
+        while(r<n){
+            if(hash[s.charAt(r)]>=l){
+                l=Math.max(hash[s.charAt(r)]+1,l);
             }
-          
-            // Update maximum length of substring without repeating characters
-            maxLength = Math.max(maxLength, right - left + 1);
+            int len=r-l+1;
+            maxlen=Math.max(len,maxlen);
+            hash[s.charAt(r)]=r;
+            r++;
         }
-      
-        return maxLength;
+        return maxlen;
     }
 }
