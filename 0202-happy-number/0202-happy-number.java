@@ -1,24 +1,18 @@
 class Solution {
     public boolean isHappy(int n) {
-        int slow=n;
-        int fast=n;
-        do{
-            slow=findsquare(slow);
-            fast=findsquare(findsquare(fast));
-
-        }while(slow!=fast);
-        if(slow==1){
-            return true;
+        while (n != 1 && n != 4) {
+            n = next(n);
         }
-        return false;
+        return n == 1;
     }
-    private int findsquare(int num){
-        int ans=0;
-        while(num>0){
-            int rem=num%10;
-            ans+=rem*rem;
-            num=num/10;
+
+    private int next(int num) {
+        int sum = 0;
+        while (num > 0) {
+            int d = num % 10;
+            sum += d * d;
+            num /= 10;
         }
-        return ans;
+        return sum;
     }
 }
