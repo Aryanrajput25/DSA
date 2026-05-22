@@ -9,46 +9,56 @@
  * }
  */
 class Solution {
+
     public void reorderList(ListNode head) {
-        if(head==null || head.next==null){
+
+        if(head == null || head.next == null) {
             return;
         }
-        ListNode mid=middlenode(head);
-        ListNode hf=head;
-        ListNode hs=reverseList(mid);
-        while(hf!=null && hs!=null){
-            ListNode temp=hf.next;
-            hf.next=hs;
-            hf=temp;
-            ListNode temp1=hs.next;
-            hs.next=hf;
-            hs=temp1;
+
+        // Find middle
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        if(hf!=null){
-            hf.next=null;
+
+        // Reverse second half
+        ListNode second = reverse(slow.next);
+
+        // Break first half
+        slow.next = null;
+
+        // Merge two halves
+        ListNode first = head;
+
+        while(second != null) {
+
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
+
+            first.next = second;
+            second.next = temp1;
+
+            first = temp1;
+            second = temp2;
         }
     }
-    public ListNode middlenode(ListNode node){
-        ListNode s=node;
-        ListNode f=node.next;
-        while(f!=null && f.next!=null){
-            s=s.next;
-            f=f.next.next;
+
+    public ListNode reverse(ListNode head) {
+
+        ListNode prev = null;
+
+        while(head != null) {
+
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
-        return s;
-    }
-    public ListNode reverseList(ListNode head) {
-        ListNode prev=null;
-        ListNode pres=head;
-        ListNode next=head.next;
-        while(pres!=null){
-            pres.next=prev;
-            prev=pres;
-            pres=next;
-            if(next!=null){
-                next=next.next;
-            }
-        }
+
         return prev;
     }
 }
