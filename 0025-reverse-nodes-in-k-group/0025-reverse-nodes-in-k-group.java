@@ -10,44 +10,51 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head==null || k<1){
-            return head;
-        }
-        ListNode prev=null;
-        ListNode pres=head;
-        while(true){
-
-            ListNode NewEnd=pres;
-            ListNode last=prev;
-
-            ListNode next=pres.next;
-            ListNode temp = pres;
-            int count = 0;
-
-            while(temp != null && count < k) {
-                temp = temp.next;
-                count++;
-            }
-            if(count < k) {
-                if(prev != null) {
-                    prev.next = pres;
-                }
-                break;
-            }       
-            for(int i=0;pres!=null && i<k;i++){
-                pres.next=prev;
-                prev=pres;
-                pres=next;
-                if(next!=null) next=next.next;
-            }
-            if(last!=null) last.next=prev;
-            else head=prev;
-            NewEnd.next=pres;
-            if(pres==null){
+        ListNode temp=head;
+        ListNode nextnode=head;
+        ListNode prevnode=null;
+        while(temp !=null){
+            ListNode kthnode=findkthnode(temp,k);
+            if(kthnode==null){
+                if(prevnode!=null) prevnode.next=temp;
                 break;
             }
-            prev=NewEnd;
+            nextnode=kthnode.next;
+            kthnode.next=null;
+            reverse(temp);
+            if(temp==head){
+                head=kthnode;
+            }
+            else prevnode.next=kthnode;
+            prevnode=temp;
+            temp=nextnode;
+
         }
         return head;
+    }
+    public ListNode findkthnode(ListNode node, int k){
+
+        k--;
+
+        while(node != null && k > 0){
+            node = node.next;
+            k--;
+        }
+
+        return node;
+    }
+    public ListNode reverse(ListNode head){
+        ListNode prev=null;
+        ListNode pres=head;
+        ListNode next=head.next;
+        while(pres!=null){
+            pres.next=prev;
+            prev=pres;
+            pres=next;
+            if(next!=null){
+                next=next.next;
+            }
+        }
+        return prev;
     }
 }
