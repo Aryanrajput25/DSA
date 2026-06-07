@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aryanrajput25/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanrajput25/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aryanrajput25/DSA/tree/master/0021-merge-two-sorted-lists) |
@@ -22,8 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryanrajput25/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aryanrajput25/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
@@ -31,8 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aryanrajput25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Aryanrajput25/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aryanrajput25/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryanrajput25/DSA/tree/master/0025-reverse-nodes-in-k-group) |
@@ -40,8 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Aryanrajput25/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Aryanrajput25/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryanrajput25/DSA/tree/master/0018-4sum) |
@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aryanrajput25/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Aryanrajput25/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -74,8 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Aryanrajput25/DSA/tree/master/2048-build-array-from-permutation) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aryanrajput25/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -84,13 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Aryanrajput25/DSA/tree/master/0682-baseball-game) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/Aryanrajput25/DSA/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Aryanrajput25/DSA/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Aryanrajput25/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryanrajput25/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryanrajput25/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -110,19 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanrajput25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1833-find-the-highest-altitude](https://github.com/Aryanrajput25/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -130,8 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanrajput25/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryanrajput25/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanrajput25/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryanrajput25/DSA/tree/master/0101-symmetric-tree) |
@@ -158,8 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryanrajput25/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanrajput25/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryanrajput25/DSA/tree/master/0101-symmetric-tree) |
@@ -183,8 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Aryanrajput25/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryanrajput25/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -200,8 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryanrajput25/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanrajput25/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryanrajput25/DSA/tree/master/0101-symmetric-tree) |
@@ -228,14 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryanrajput25/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryanrajput25/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Aryanrajput25/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -252,30 +253,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/Aryanrajput25/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Aryanrajput25/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanrajput25/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryanrajput25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Aryanrajput25/DSA/tree/master/0257-binary-tree-paths) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Aryanrajput25/DSA/tree/master/0257-binary-tree-paths) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Aryanrajput25/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryanrajput25/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -285,28 +287,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aryanrajput25/DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryanrajput25/DSA/tree/master/0229-majority-element-ii) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanrajput25/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/Aryanrajput25/DSA/tree/master/0042-trapping-rain-water) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
