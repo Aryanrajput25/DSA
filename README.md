@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aryanrajput25/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aryanrajput25/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Aryanrajput25/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Aryanrajput25/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryanrajput25/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/Aryanrajput25/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Aryanrajput25/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Aryanrajput25/DSA/tree/master/0257-binary-tree-paths) |
