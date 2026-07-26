@@ -7,7 +7,7 @@ class Solution {
         int right=m-1;
         int top=0;
         int bottom=n-1;
-        while(top <= bottom && left <= right){
+        while(left <= right && top <= bottom){
             for(int i=left;i<=right;i++){
                 ans.add(matrix[top][i]);
             }
