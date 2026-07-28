@@ -1,27 +1,33 @@
-
-
 class Solution {
     public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        // Step 1: Sort by start time
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        List<int[]> ans = new ArrayList<>();
 
-        int index = 0; // Points to last merged interval
+        int n = intervals.length;
 
-        for (int i = 1; i < intervals.length; i++) {
+        for (int i = 0; i < n; i++) {
 
-            // If overlapping
-            if (intervals[index][1] >= intervals[i][0]) {
-                intervals[index][1] =
-                        Math.max(intervals[index][1], intervals[i][1]);
-            } else {
-                // Move index forward and copy interval
-                index++;
-                intervals[index] = intervals[i];
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+
+            // Skip if this interval is already merged
+            if (!ans.isEmpty() && end <= ans.get(ans.size() - 1)[1]) {
+                continue;
             }
+
+            for (int j = i + 1; j < n; j++) {
+
+                if (intervals[j][0] <= end) {
+                    end = Math.max(end, intervals[j][1]);
+                } else {
+                    break;
+                }
+            }
+
+            ans.add(new int[]{start, end});
         }
 
-        // Return only merged part
-        return Arrays.copyOfRange(intervals, 0, index + 1);
+        return ans.toArray(new int[ans.size()][]);
     }
 }
