@@ -6,6 +6,7 @@ class Solution {
             int num=Math.min(8,n);
             ans+=num*i;
             n=n-num;
+            if(n<=0) break;
             
         }
         return ans;
