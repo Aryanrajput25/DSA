@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryanrajput25/DSA/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Aryanrajput25/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Aryanrajput25/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryanrajput25/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Aryanrajput25/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Aryanrajput25/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryanrajput25/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Aryanrajput25/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
