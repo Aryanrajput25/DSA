@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryanrajput25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Aryanrajput25/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aryanrajput25/DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aryanrajput25/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Aryanrajput25/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryanrajput25/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Aryanrajput25/DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanrajput25/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Aryanrajput25/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
