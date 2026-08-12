@@ -8,7 +8,7 @@ class Solution {
         int maxlen=0;
         while(r<n){
             if(hash[s.charAt(r)]>=l){
-                l=Math.max(hash[s.charAt(r)]+1,l);
+                l=hash[s.charAt(r)]+1;
             }
             int len=r-l+1;
             maxlen=Math.max(len,maxlen);
