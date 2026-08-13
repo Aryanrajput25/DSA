@@ -5,7 +5,7 @@ class Solution {
         while(r<nums.length){
             map.put(nums[r],map.getOrDefault(nums[r],0)+1);
             if(map.size()>2){
-                while(map.size()>2){
+                if(map.size()>2){
                     map.put(nums[l], map.get(nums[l]) - 1);
                     if(map.get(nums[l])==0) map.remove(nums[l]);
                     l++;
