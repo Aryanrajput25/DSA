@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aryanrajput25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryanrajput25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanrajput25/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aryanrajput25/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aryanrajput25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryanrajput25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanrajput25/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Aryanrajput25/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Aryanrajput25/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanrajput25/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanrajput25/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryanrajput25/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aryanrajput25/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanrajput25/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanrajput25/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanrajput25/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryanrajput25/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryanrajput25/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
