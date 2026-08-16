@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryanrajput25/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/Aryanrajput25/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aryanrajput25/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryanrajput25/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryanrajput25/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryanrajput25/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Aryanrajput25/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Aryanrajput25/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Aryanrajput25/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryanrajput25/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryanrajput25/DSA/tree/master/0242-valid-anagram) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Aryanrajput25/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanrajput25/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aryanrajput25/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryanrajput25/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
