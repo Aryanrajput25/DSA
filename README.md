@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanrajput25/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanrajput25/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryanrajput25/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryanrajput25/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Divide and Conquer
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Aryanrajput25/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryanrajput25/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryanrajput25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryanrajput25/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryanrajput25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanrajput25/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryanrajput25/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aryanrajput25/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryanrajput25/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryanrajput25/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryanrajput25/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/Aryanrajput25/DSA/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
