@@ -16,6 +16,7 @@ class Solution {
         int count=0;
         for(int i=0;i<nums.length;i++){
             count+=Math.ceil((double)nums[i]/divisor);
+            if(count>threshold) return false;
         }
         return count<=threshold;
     }
