@@ -9,12 +9,10 @@ class Solution {
         int high=sum;
         int low=max;
         if(days==1) return sum;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(func(weights,days,mid)) high=mid-1;
-            else low=mid+1;
+        for(int cap=max;cap<=sum;cap++){
+            if(func(weights,days,cap)) return cap;
         }
-        return low;
+        return -1;
     }
     Boolean func(int[] weights, int days, int capacity){
         int dayused=1, sum=0;
