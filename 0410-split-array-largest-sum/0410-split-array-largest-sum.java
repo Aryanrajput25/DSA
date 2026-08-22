@@ -25,6 +25,7 @@ class Solution {
                 noofk++;
                 sum=nums[i];
             }
+            if(noofk>k) return false;
         }
         return noofk<=k;
     }
