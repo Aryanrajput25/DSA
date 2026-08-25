@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Aryanrajput25/DSA/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/Aryanrajput25/DSA/tree/master/2048-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanrajput25/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/Aryanrajput25/DSA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanrajput25/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryanrajput25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1677-matrix-diagonal-sum](https://github.com/Aryanrajput25/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanrajput25/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/Aryanrajput25/DSA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 | Problem Name | Difficulty |
