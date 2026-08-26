@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Aryanrajput25/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryanrajput25/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-find-the-highest-altitude](https://github.com/Aryanrajput25/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1901-find-a-peak-element-ii](https://github.com/Aryanrajput25/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanrajput25/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/Aryanrajput25/DSA/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/Aryanrajput25/DSA/tree/master/2048-build-array-from-permutation) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryanrajput25/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryanrajput25/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Aryanrajput25/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Aryanrajput25/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryanrajput25/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1677-matrix-diagonal-sum](https://github.com/Aryanrajput25/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/Aryanrajput25/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryanrajput25/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2643-row-with-maximum-ones](https://github.com/Aryanrajput25/DSA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
