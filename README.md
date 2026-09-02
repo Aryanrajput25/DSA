@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aryanrajput25/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aryanrajput25/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/Aryanrajput25/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aryanrajput25/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aryanrajput25/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryanrajput25/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aryanrajput25/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Aryanrajput25/DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aryanrajput25/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aryanrajput25/DSA/tree/main/0075-sort-colors/) | Medium |
