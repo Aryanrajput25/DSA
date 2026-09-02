@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryanrajput25/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Aryanrajput25/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Aryanrajput25/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Aryanrajput25/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aryanrajput25/DSA/tree/main/0069-sqrtx/) | Easy |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aryanrajput25/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Aryanrajput25/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aryanrajput25/DSA/tree/main/0260-single-number-iii/) | Medium |
