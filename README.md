@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryanrajput25/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aryanrajput25/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryanrajput25/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryanrajput25/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryanrajput25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryanrajput25/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryanrajput25/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryanrajput25/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Aryanrajput25/DSA/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 ## Stack
 |  |
