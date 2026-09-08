@@ -6,9 +6,7 @@ class Solution {
     }
     public void func(int idx,int[] nums, int target,List<List<Integer>> ans,List<Integer> ds ){
         if(idx==nums.length){
-            if(target==0){
-                ans.add(new ArrayList<>(ds));
-            }
+            if(target==0) ans.add(new ArrayList<>(ds));
             return;
         }
         if(nums[idx]<=target){
