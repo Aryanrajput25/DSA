@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryanrajput25/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Aryanrajput25/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryanrajput25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Aryanrajput25/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Aryanrajput25/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aryanrajput25/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Aryanrajput25/DSA/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aryanrajput25/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Aryanrajput25/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Aryanrajput25/DSA/tree/master/0257-binary-tree-paths) |
 ## Sorting
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Aryanrajput25/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aryanrajput25/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Aryanrajput25/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Aryanrajput25/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aryanrajput25/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
