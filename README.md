@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryanrajput25/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aryanrajput25/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Aryanrajput25/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryanrajput25/DSA/tree/master/0877-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aryanrajput25/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aryanrajput25/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -584,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanrajput25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryanrajput25/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Aryanrajput25/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
