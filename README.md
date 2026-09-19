@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aryanrajput25/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanrajput25/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryanrajput25/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Aryanrajput25/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aryanrajput25/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Aryanrajput25/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aryanrajput25/DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aryanrajput25/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aryanrajput25/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Aryanrajput25/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aryanrajput25/DSA/tree/master/0054-spiral-matrix) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryanrajput25/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanrajput25/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryanrajput25/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aryanrajput25/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aryanrajput25/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Aryanrajput25/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aryanrajput25/DSA/tree/main/0076-minimum-window-substring/) | Hard |
