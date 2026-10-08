@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aryanrajput25/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Aryanrajput25/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aryanrajput25/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0860-lemonade-change](https://github.com/Aryanrajput25/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aryanrajput25/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryanrajput25/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Aryanrajput25/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aryanrajput25/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aryanrajput25/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Aryanrajput25/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Aryanrajput25/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryanrajput25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Aryanrajput25/DSA/tree/master/1927-sum-game) |
