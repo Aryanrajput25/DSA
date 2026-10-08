@@ -3,9 +3,10 @@ class Solution {
         int l=0;
         int r=0;
         int n=s.length;
+        int m=g.length;
         Arrays.sort(g);
         Arrays.sort(s);
-        while(r<n && l<g.length){
+        while(r<n && l<m){
             if(g[l]<=s[r]) l++;
             r++;
         }
