@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Aryanrajput25/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aryanrajput25/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Aryanrajput25/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Aryanrajput25/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Aryanrajput25/DSA/tree/main/0493-reverse-pairs/) | Hard |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aryanrajput25/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Aryanrajput25/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aryanrajput25/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Aryanrajput25/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Aryanrajput25/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryanrajput25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryanrajput25/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aryanrajput25/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aryanrajput25/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Aryanrajput25/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryanrajput25/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Bit Manipulation
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryanrajput25/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Aryanrajput25/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aryanrajput25/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Aryanrajput25/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Aryanrajput25/DSA/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Aryanrajput25/DSA/tree/master/1386-cinema-seat-allocation) |
