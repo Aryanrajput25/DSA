@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryanrajput25/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryanrajput25/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryanrajput25/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aryanrajput25/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanrajput25/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanrajput25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Aryanrajput25/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryanrajput25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryanrajput25/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryanrajput25/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aryanrajput25/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Aryanrajput25/DSA/tree/main/3998-transform-binary-string-using-subsequence-sort/) | Medium |
 ## Binary Search
 |  |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aryanrajput25/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryanrajput25/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aryanrajput25/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryanrajput25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
