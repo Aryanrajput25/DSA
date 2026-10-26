@@ -11,10 +11,8 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode t1=headA;
-        ListNode t2=headB;
-        int l1=0;
-        int l2=0;
+        int l1=0, l2=0;
+        ListNode t1=headA, t2=headB;
         while(t1!=null){
             l1++;
             t1=t1.next;
@@ -23,25 +21,19 @@ public class Solution {
             l2++;
             t2=t2.next;
         }
-        t1 = headA;
-        t2 = headB;
-        if(l1>l2){
-            return findpoint(t2,t1,l1-l2);
-        }
-        else{
-            return findpoint(t1,t2,l2-l1);
-        }
+        if(l1>l2) return collisionpt(headA,headB,l1-l2);
+        return collisionpt(headB,headA,l2-l1);
     }
-    public ListNode findpoint(ListNode t1,ListNode t2,int d){
-        while(d!=0){
-            d--;
-            t2=t2.next;
+    ListNode collisionpt(ListNode t1,ListNode t2, int diff){
+        while(diff>0){
+            diff--;
+            t1=t1.next;
         }
-        while(t1!=t2){
+        while(t1!=null || t2!=null){
+            if(t1==t2) return t1;
             t1=t1.next;
             t2=t2.next;
         }
-        return t1;
-
+        return null;
     }
 }
