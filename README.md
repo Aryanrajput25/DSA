@@ -737,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aryanrajput25/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Aryanrajput25/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
