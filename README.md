@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aryanrajput25/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Aryanrajput25/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Aryanrajput25/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Aryanrajput25/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aryanrajput25/DSA/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aryanrajput25/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Aryanrajput25/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Aryanrajput25/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Aryanrajput25/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aryanrajput25/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryanrajput25/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryanrajput25/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryanrajput25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aryanrajput25/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -742,4 +745,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryanrajput25/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryanrajput25/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryanrajput25/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
