@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-mismatched-segments-between-two-strings">4106. Find Mismatched Segments Between Two Strings</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>s1</code> and <code>s2</code> of the same length.</p>
+<h2><a href="https://leetcode.com/problems/find-mismatched-segments-between-two-strings">4432. Find Mismatched Segments Between Two Strings</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>s1</code> and <code>s2</code> of the same length.</p>
 
 <p>A <strong>mismatched segment</strong> is a <strong>maximal contiguous</strong> range of indices where the characters of <code>s1</code> and <code>s2</code> differ at every index.</p>
 
