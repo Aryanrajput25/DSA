@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aryanrajput25/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryanrajput25/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Aryanrajput25/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/Aryanrajput25/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aryanrajput25/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Aryanrajput25/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryanrajput25/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aryanrajput25/DSA/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryanrajput25/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Aryanrajput25/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aryanrajput25/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Aryanrajput25/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aryanrajput25/DSA/tree/main/0455-assign-cookies/) | Easy |
